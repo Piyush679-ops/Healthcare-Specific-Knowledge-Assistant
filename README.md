@@ -1,3 +1,4 @@
+IMPORTANT NOTE : THE CHATBOT WILL ANSWER ONLY THE QUESTIONS WHICH ARE IN THE "healthcare_faq " FILE ..                                                                                                     
 Healthcare-Specific-Knowledge-Assistant
 This project is a Streamlit-based interactive web application designed to provide users with accurate and context-specific answers to healthcare-related queries. By leveraging transformers, fuzzy matching, and a dataset of frequently asked questions (FAQs), the tool ensures users receive reliable and relevant information.
 

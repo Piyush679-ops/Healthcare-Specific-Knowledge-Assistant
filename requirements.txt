@@ -1,4 +1,7 @@
 streamlit
-transformers
 pandas
 rapidfuzz
+transformers
+torch
+streamlit
+accelerate
